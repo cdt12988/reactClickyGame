@@ -1,0 +1,74 @@
+[
+	{
+		"id": 1,
+		"name": "Goku",
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSekuD-x_PpK62HT4_rquNb9XVKO6IvavEmOS5jxxX2AEDuM0njwQ",
+		"clicked": false
+	},
+	{
+		"id": 2,
+		"name": "Gohan",
+		"image": "http://profilepicturesdp.com/wp-content/uploads/2018/06/gohan-ssj-profile-picture-3.png",
+		"clicked": false
+	},
+	{
+		"id": 3,
+		"name": "Piccolo",
+		"image": "https://vignette.wikia.nocookie.net/dragonball/images/f/f4/Piccoro.jpg/revision/latest?cb=20120518020348&path-prefix=es",
+		"clicked": false
+	},
+	{
+		"id": 4,
+		"name": "Vegeta",
+		"image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a7/a7c099372067cf6cd254a08ab727a125a0db56b9_full.jpg",
+		"clicked": false
+	},
+	{
+		"id": 5,
+		"name": "Yamcha",
+		"image": "https://66.media.tumblr.com/acce02bc6420261699cff743263470d8/tumblr_inline_p76hrg8Y3a1sss5ih_500.png",
+		"clicked": false
+	},
+	{
+		"id": 6,
+		"name": "Tien",
+		"image": "https://images.rapgenius.com/64c868856a38a58591505dd4e08c6c35.579x435x1.jpg",
+		"clicked": false
+	},
+	{
+		"id": 7,
+		"name": "Chiaotzu",
+		"image": "https://vignette.wikia.nocookie.net/dragonball/images/9/98/HappyMadChiaotzu.png/revision/latest?cb=20110702100741",
+		"clicked": false
+	},
+	{
+		"id": 8,
+		"name": "Krillin",
+		"image": "https://i.pinimg.com/originals/00/21/4f/00214f8cc9ec53a36b7deff4c8a5d5b9.jpg",
+		"clicked": false
+	},
+	{
+		"id": 9,
+		"name": "Goten",
+		"image": "https://vignette.wikia.nocookie.net/dragonball/images/a/a2/Son_Goten_as_a_child.jpg/revision/20110811182820",
+		"clicked": false
+	},
+	{
+		"id": 10,
+		"name": "Trunks",
+		"image": "https://s3.amazonaws.com/beatstarsdata/b.user.data/_avatars/uploads/_LARGER_177328.png?_=1474219639",
+		"clicked": false
+	},
+	{
+		"id": 11,
+		"name": "Master Roshi",
+		"image": "https://content.invisioncic.com/r273030/monthly_2017_08/6f0bd6eb8ea0aa43a9c710a7b33038088964c0fa_full.jpg.941fe50d2f3230c5440f9feb935a1fab.jpg",
+		"clicked": false
+	},
+	{
+		"id": 12,
+		"name": "Yajirobe",
+		"image": "https://i.ytimg.com/vi/yzn83atHBIc/hqdefault.jpg",
+		"clicked": false
+	}
+]

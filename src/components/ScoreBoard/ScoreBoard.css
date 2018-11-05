@@ -1,0 +1,48 @@
+.scoreboard {
+	width: 100vw;
+	height: 10vh;
+	min-height: 80px;
+	background: #ECEFF1;
+	
+	font-size: 1.25em;
+	
+	display: grid;
+	grid:
+		". msg score" 100%
+		/ 20% 60% 20%;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+
+.message-container {
+	grid-area: msg;
+/*
+	display: flex;
+	flex-flow: column wrap;
+	justify-content: center;
+	align-items: center;
+*/
+}
+
+.scores {
+	grid-area: score;
+}
+
+.play-again {
+	max-width: 250px;
+	padding: 1em 2em;
+	background: lightblue;
+	border-radius: 1em;
+	cursor: pointer;
+	margin-left: 1em;
+	box-shadow: 1px 10px 30px 6px rgba(0,0,0,0.75);
+	transition: all 200ms linear;
+	font-size: .9em;
+}
+
+.play-again:hover {
+	background: purple;
+	color: white;
+	box-shadow: 1px 15px 45px 9px rgba(0,0,0,0.75);
+}
